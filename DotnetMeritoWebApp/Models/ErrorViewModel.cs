@@ -1,4 +1,4 @@
-namespace DotnetMeritoWebApp.Models;
+namespace DotNetMeritoWebApp.Models;
 
 public class ErrorViewModel
 {

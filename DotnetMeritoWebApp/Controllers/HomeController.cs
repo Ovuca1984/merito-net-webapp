@@ -1,8 +1,8 @@
 using System.Diagnostics;
 using Microsoft.AspNetCore.Mvc;
-using DotnetMeritoWebApp.Models;
+using DotNetMeritoWebApp.Models;
 
-namespace DotnetMeritoWebApp.Controllers;
+namespace DotNetMeritoWebApp.Controllers;
 
 public class HomeController : Controller
 {
